@@ -1,4 +1,1 @@
-Updated upstream
-# Document Title
-## Heading One
-Some Text
+print("Hello potato")
